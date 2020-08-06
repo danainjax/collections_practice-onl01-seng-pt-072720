@@ -39,6 +39,7 @@ def find_a(array)
 end
 
 def sum_array(array)
+#adds together all of the integers in the array and returns their sum.
   
   end
 end
