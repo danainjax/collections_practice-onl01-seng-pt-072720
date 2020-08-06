@@ -40,7 +40,7 @@ end
 
 def sum_array(array)
 #adds together all of the integers in the array and returns their sum.
-  
+  array.sum
   end
 end
     
