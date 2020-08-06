@@ -49,6 +49,5 @@ def sum_array(array)
         else
           element = element
         end
-   end
  end
 
