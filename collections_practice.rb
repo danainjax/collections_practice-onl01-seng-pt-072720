@@ -46,9 +46,9 @@ def sum_array(array)
    array.each_with_index.collect do |element,index|
         if index != 1 
           element = element + "s"
-        end
         else
           element = element
         end
    end
+ end
 
